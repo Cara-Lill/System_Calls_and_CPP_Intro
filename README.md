@@ -1,6 +1,6 @@
-# System_Calls_and_CPP_Intro
+# System Calls and C++ Introduction
 
-Introduction exercise for networks and C++. Developed over a day, this exercise covers the basics for process management, socket creation, and C++ namespace and classes.
+An introduction exercise for networks and C++. It covers basic process management using system calls, includes examples of socket creation and basic network communication, and provides an introduction to namespaces and classes in C++.
 
 ## Features
 
